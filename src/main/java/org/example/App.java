@@ -11,3 +11,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+// Commento per fare il push e verificare che il workflow di github action funzioni.
